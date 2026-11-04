@@ -23,7 +23,7 @@ and add the link to the `<nav>` block of every page.
 2. Update the version and date in the footer, in `publications.html` (citation and version history) and in `CHANGELOG.md`.
 3. Commit, then create a GitHub release (e.g. `v11`): Zenodo archives it and assigns a DOI.
 
-## To complete after the first release
-- Zenodo DOI (publications page and citation).
+## Archiving
+Each GitHub release is archived on Zenodo. Concept DOI (all versions): 10.5281/zenodo.23963089. v10: 10.5281/zenodo.23963090.
 
 Licence: content CC BY 4.0.
